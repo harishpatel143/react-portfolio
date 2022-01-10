@@ -14,7 +14,7 @@ const greeting = {
   subTitle: emoji(
     "I'm PHP Developer 🚀 having an experience of building Web and Backend applications with PHP / Laravel / NodeJs / VueJs / CakePHP / ExpressJS / REST API  and some other cool libraries and frameworks."
   ),
-  resumeLink:"https://drive.google.com/file/d/1A3eJE6fKlkU-ZriZTCQdDOmQV6bvP9JW/view?usp=drivesdk",
+  resumeLink:"https://drive.google.com/file/d/1o_W7lT6iZfMkCzx2KgopPmVMqnQQFZx7/view?usp=sharing",
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
