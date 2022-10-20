@@ -190,7 +190,7 @@ const workExperiences = {
       role: "Software Developer",
       company: "Idea Zinc Pvt. Ltd.",
       //companylogo: "",
-      date: "Sep 2021 – Feb 2022",
+      date: "Feb 2022 – Currently Working Here",
       desc: "I'm working as a Software Developer for building web appliactions, REST APIs and backend platforms"
       // descBullets: []
     },
