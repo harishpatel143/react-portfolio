@@ -187,8 +187,24 @@ const workExperiences = {
   display: true, //Set it to true to show workExperiences Section
   experience: [
     {
+      role: "Software Developer",
+      company: "Idea Zinc Pvt. Ltd.",
+      companylogo: "https://hesabe-assets.s3.me-south-1.amazonaws.com/Hesabe-Logo.png",
+      date: "Sep 2021 – Feb 2022",
+      desc: "I'm working as a Software Developer for building web appliactions, REST APIs and backend platforms"
+      // descBullets: []
+    },
+    {
       role: "Software Engineer",
-      company: "Simform",
+      company: "Hesabe Payment Collection",
+      companylogo: "https://hesabe-assets.s3.me-south-1.amazonaws.com/Hesabe-Logo.png",
+      date: "Sep 2021 – Feb 2022",
+      desc: "I'm working as a Software Engineer for building web appliactions, REST APIs and backend platforms"
+      // descBullets: []
+    },
+    {
+      role: "Software Engineer",
+      company: "Simform Solutions Pvt. Ltd.",
       companylogo: require("./assets/images/simform.png"),
       date: "June 2019 – Present",
       desc: "I'm working as a Software Engineer for building web appliactions, REST APIs and backend platforms"
