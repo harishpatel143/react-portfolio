@@ -189,7 +189,7 @@ const workExperiences = {
     {
       role: "Software Developer",
       company: "Idea Zinc Pvt. Ltd.",
-      companylogo: "https://hesabe-assets.s3.me-south-1.amazonaws.com/Hesabe-Logo.png",
+      //companylogo: "",
       date: "Sep 2021 – Feb 2022",
       desc: "I'm working as a Software Developer for building web appliactions, REST APIs and backend platforms"
       // descBullets: []
