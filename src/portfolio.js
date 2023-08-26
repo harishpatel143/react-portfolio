@@ -393,7 +393,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "(+91) 9724687143",
+  number: "(+91) 8200412899",
   email_address: "harishdpatel143@gmail.com"
 };
 
